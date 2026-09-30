@@ -17,7 +17,7 @@ const FounderVision = () => {
             <div className="absolute -inset-4 gradient-blue-purple rounded-3xl opacity-10 blur-2xl" />
             <img
               src={founderImg}
-              alt="Harsh Tiwari, Founder & CEO of DigitallyU"
+              alt="Ayushi Tiwari, Founder & CEO of DigitallyU"
               className="relative w-full max-w-md mx-auto aspect-[4/5] object-cover rounded-2xl"
               loading="lazy"
             />
@@ -40,7 +40,7 @@ const FounderVision = () => {
             </h2>
 
             <p className="text-muted-foreground leading-relaxed mb-6">
-              Harsh Tiwari founded DigitallyU to help startups unlock scalable
+              Ayushi Tiwari founded DigitallyU to help startups unlock scalable
               growth through AI-powered digital transformation. The mission is
               to eliminate operational inefficiencies and build intelligent
               systems that empower founders to focus on innovation and expansion.
@@ -48,7 +48,7 @@ const FounderVision = () => {
 
             <div className="flex items-center gap-4">
               <div>
-                <p className="font-semibold">Harsh Tiwari</p>
+                <p className="font-semibold">Ayushi Tiwari</p>
                 <p className="text-sm text-muted-foreground">
                   Founder & CEO, DigitallyU
                 </p>
